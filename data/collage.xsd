@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="http://collage.com"
+xmlns="http://collage.com"
+elementFormDefault="qualified">
+
+<xs:element name="collage">
+  <xs:complexType>
+    <xs:choice maxOccurs="unbounded">
+      <xs:element name="image">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="source" type="xs:string"/>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="position-x" type="xs:integer"/>
+            <xs:element name="position-y" type="xs:integer"/>
+            <xs:element name="width" type="xs:integer"/>
+            <xs:element name="height" type="xs:integer"/>
+            <xs:element name="rotation" type="xs:integer"/>
+            <xs:element name="alpha" type="xs:integer"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:choice>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
