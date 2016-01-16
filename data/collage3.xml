@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collage
+xmlns="http://collage.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://collage.com collage.xsd">
+  <image>
+    <source>data/images/photo1.jpg</source>
+    <title>a</title>
+    <position-x>120</position-x>
+    <position-y>145</position-y>
+    <width>400</width>
+    <height>250</height>
+    <rotation>70</rotation>
+    <alpha>25</alpha>
+  </image>
+  <image>
+    <source>data/images/photo2.jpg</source>
+    <title>b</title>
+    <position-x>350</position-x>
+    <position-y>10</position-y>
+    <width>250</width>
+    <height>110</height>
+    <rotation>99</rotation>
+    <alpha>80</alpha>
+  </image>
+  <image>
+    <source>data/images/photo3.jpg</source>
+    <title>c</title>
+    <position-x>0</position-x>
+    <position-y>200</position-y>
+    <width>300</width>
+    <height>120</height>
+    <rotation>180</rotation>
+    <alpha>100</alpha>
+  </image>
+  <image>
+    <source>data/images/photo4.jpg</source>
+    <title>d</title>
+    <position-x>50</position-x>
+    <position-y>100</position-y>
+    <width>120</width>
+    <height>55</height>
+    <rotation>70</rotation>
+    <alpha>100</alpha>
+  </image>
+  <image>
+    <source>data/images/photo5.jpg</source>
+    <title>e</title>
+    <position-x>300</position-x>
+    <position-y>0</position-y>
+    <width>300</width>
+    <height>400</height>
+    <rotation>30</rotation>
+    <alpha>70</alpha>
+  </image>
+  <image>
+    <source>data/images/photo6.jpg</source>
+    <title>f</title>
+    <position-x>0</position-x>
+    <position-y>400</position-y>
+    <width>450</width>
+    <height>250</height>
+    <rotation>75</rotation>
+    <alpha>24</alpha>
+  </image>
+</collage>
