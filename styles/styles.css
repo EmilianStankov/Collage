@@ -1,3 +1,20 @@
 img {
   position: absolute;
 }
+
+button#generate {
+  position: absolute;
+  z-index: 9999;
+  background: #515151;
+  border: 1px solid #545454;
+  color: white;
+  border-radius: 3px;
+  width: 100px;
+  height: 30px;
+  top: 10px;
+  right: 10px;
+}
+
+button#generate:hover {
+  background: #AEAEAE;
+}
