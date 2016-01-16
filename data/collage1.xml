@@ -10,7 +10,7 @@ xsi:schemaLocation="http://collage.com collage.xsd">
     <position-y>10</position-y>
     <width>100</width>
     <height>50</height>
-    <rotation>0</rotation>
+    <rotation>123</rotation>
     <alpha>100</alpha>
   </image>
   <image>
@@ -20,7 +20,7 @@ xsi:schemaLocation="http://collage.com collage.xsd">
     <position-y>10</position-y>
     <width>200</width>
     <height>100</height>
-    <rotation>0</rotation>
+    <rotation>12</rotation>
     <alpha>50</alpha>
   </image>
   <image>
@@ -30,7 +30,7 @@ xsi:schemaLocation="http://collage.com collage.xsd">
     <position-y>100</position-y>
     <width>100</width>
     <height>50</height>
-    <rotation>0</rotation>
+    <rotation>234</rotation>
     <alpha>75</alpha>
   </image>
 </collage>
